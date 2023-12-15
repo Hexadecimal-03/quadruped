@@ -15,6 +15,6 @@ Design and data for quadruped robot along with description and manual.
 ## Components
 - The actuator used in the model is "Orange OT5116M 6V 15kg.cm Digital Servo Motor" high torque servo motor.
     Link to buy: https://robu.in/product/orange-ot5116m-6v-15kg-cm-digital-servo-motor/
-- Other components are 3D printed and bill of components is:
+- Other components are 3D printed and bill of components is:  
         - body fe one x1
   
