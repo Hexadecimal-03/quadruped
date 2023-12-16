@@ -36,4 +36,7 @@ Design and data for quadruped robot along with description and manual.
           - Li-ion Battery        
 
   ## Description
-  - Al the components needed to be 3D printed preferably according to the slicing scheme
+  - All the components needed to be 3D printed preferably according to the slicing scheme.
+  - The model is optimised according to the actuator specified earlier (see the assembly file for the blueprint and assembly instructions)
+  - One part (body) is too big to be printed in one go hence, is divided into two different components (namely body male and body female), male part have projections and female part have matching grooves (the printing error and clearance is taken into account according SLA printers (about 1.5 - 4 mm) and all the grooves and projections are optimised). These components are in turn divided into two more parts for easy manufacturing.
+  -  
